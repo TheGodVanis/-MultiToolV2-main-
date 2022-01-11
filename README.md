@@ -1,7 +1,7 @@
 # MultiToolV2
 ### Discord Multi Tool that focuses on design and easy usage
 
-<img src="https://cdn.discordapp.com/attachments/847466666689560637/921528350890135642/unknown.png" width="600x">
+<img src="https://media.discordapp.net/attachments/894027053425393700/930262206187208754/unknown.png?width=790&height=310" width="600x">
 
 # Features:
 - Delete webhook
