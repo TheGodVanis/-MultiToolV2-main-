@@ -18,7 +18,6 @@
 
 go into your theme.json and change it to one of the 4 down below. Have fun! (blue, red, purple, green)
 
-<img src="https://cdn.discordapp.com/attachments/847466666689560637/921530281184342046/multitoolthemes.png" width="400x">
 
 - Open token
 
